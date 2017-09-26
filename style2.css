@@ -1,0 +1,55 @@
+nav,
+ul,
+a {
+    color: #ffffff !important;
+    font-size: 22px !important;
+    /* font-weight: bold; */
+    font-family: 'Raleway', sans-serif;
+}
+
+brand-logo {
+    width: auto;
+    height: 75%;
+}
+
+.top-image {
+    background-image: url("atl2.jpg");
+    height: 100%;
+    width: auto;
+    background: #000000;
+}
+
+.about {
+    height: 300px;
+}
+
+.middle-image {
+    background: #000000;
+    background-image: url("mountains.jpg");
+    height: 100%;
+    width: auto;
+}
+
+.technology {
+    height: 300px;
+}
+
+.bottom-image {
+    background: #000000;
+    background-image: url("balloons.jpeg");
+    height: 100%;
+    width: auto;
+}
+
+.links,
+img {
+    /* box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+    height: 65px;
+    margin-left: 10px;
+    width: auto;
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
